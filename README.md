@@ -90,7 +90,7 @@ Sentiment-Analysis/
 <div class="code-group">
 
 ```bash title="Clone Repository"
-git clone <your-repository-url>
+git clone https://github.com/MELLOxProg/Sentiment-Analysis.git
 cd Sentiment-Analysis
 ```
 
