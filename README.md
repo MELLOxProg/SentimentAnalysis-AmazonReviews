@@ -272,9 +272,6 @@ print(response.json())  # {'prediction': 'Positive'}
 4. Push to branch: `git push origin feature/new-feature`
 5. Submit a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
