@@ -283,6 +283,5 @@ print(response.json())  # {'prediction': 'Positive'}
 ---
 
 <div align="center">
-  <p>Made with ❤️ for sentiment analysis</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
